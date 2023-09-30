@@ -14,10 +14,11 @@ Berikut teknologi yang saya gunakan untuk membuat website ini:
 
 ## Instalasi
 1. Clone repository ini ke dalam folder htdocs/pemrograman/latihan.
-   * Jika Anda ingin meng-clone repository ini di folder htdocs, maka ada hal yang harus diubah, yaitu:
-     - Pergi ke file config.php di folder app/config, ubah `define('BASEURL', "http://localhost/pemrograman/latihan/crud-fandb/public");` pada baris ke 4, menjadi `define('BASEURL', "http://localhost/crud-fandb/public");`
-   * Jika Anda ingin meng-clone repository ini di folder htdocs/nama-file, maka ada hal yang harus diubah, yaitu:
-     - Pergi ke file config.php di folder app/config, ubah `define('BASEURL', "http://localhost/pemrograman/latihan/crud-fandb/public");` pada baris ke 4, menjadi `define('BASEURL', "http://localhost/nama-file/crud-fandb/public");`
+   > Jika Anda ingin meng-clone repository ini di folder htdocs, maka ada hal yang harus diubah, yaitu:
+     >> Pergi ke file config.php di folder app/config, ubah `define('BASEURL', "http://localhost/pemrograman/latihan/crud-fandb/public");` pada baris ke 4, menjadi `define('BASEURL', "http://localhost/crud-fandb/public");`
+
+   > Jika Anda ingin meng-clone repository ini di folder htdocs/nama-file, maka ada hal yang harus diubah, yaitu:
+     >> Pergi ke file config.php di folder app/config, ubah `define('BASEURL', "http://localhost/pemrograman/latihan/crud-fandb/public");` pada baris ke 4, menjadi `define('BASEURL', "http://localhost/nama-file/crud-fandb/public");`
 2. Buka XAMPP lalu jalankan Apache dan MySQL.
 3. Buat database dengan nama crud_fandb lalu buat tabel menu dengan field seperti berikut:
    * id int(11) primary key auto_increment
