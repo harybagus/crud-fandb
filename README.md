@@ -27,7 +27,7 @@ Berikut teknologi yang saya gunakan untuk membuat website ini:
    * price int(11) not null
    * type varchar(7) not null
    * image varchar(50) not null
-4. Buka browser favorit Anda lalu..
-   * Ketikkan `localhost/pemrograman/latihan/crud-fandb/public`
-   * Namun jika Anda meng-clone repository ini di htdocs maka ketikkan `localhost/crud-fandb/public`
-   * Atau jika Anda meng-clone repository ini di htdocs/nama-file maka ketikkan `localhost/nama-file/crud-fandb/public`
+4. Buka browser favorit Anda lalu ketikkan `localhost/pemrograman/latihan/crud-fandb/public`
+   > Jika Anda meng-clone repository ini di htdocs maka ketikkan `localhost/crud-fandb/public`
+   
+   > Jika Anda meng-clone repository ini di htdocs/nama-file maka ketikkan `localhost/nama-file/crud-fandb/public`
