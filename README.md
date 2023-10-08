@@ -1,6 +1,8 @@
+# Website CRUD Food and Beverage
+
 <img src="https://github.com/harybagus/crud-fandb/assets/126042692/e820c438-ef1d-4b62-bf70-af60ef58dc4a" width="300">
 
-# F&Bagus
+## F&Bagus
 F&Bagus adalah sebuah website yang menampilkan berbagai macam makanan dan minuman beserta deskripsi dan harganya.
 Anda bisa menambahkan makanan dan minuman favorit agar menu tersebut ada di website ini, Anda juga bisa mengubah, atau menghapusnya.
 
